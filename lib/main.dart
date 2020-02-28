@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text(
                 'Gesture Crash',
                 style: TextStyle(
-                  fontSize: 18.0,
+                  fontSize: 20.0,
                   fontWeight: FontWeight.w600,
                 ),
               ),
